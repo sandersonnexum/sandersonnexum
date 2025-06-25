@@ -1,16 +1,16 @@
 # Olá, eu sou Sanderson Machado👋
 
 ## Sobre Mim
-- 🌱 Atualmente estou aprendendo **Flutter, C++, Java**
+- 🌱 Atualmente estou aprendendo **C#, Java, Android Studio**
 - 👯 Estou procurando colaborar em **projetos de código aberto**
-- 💬 Pergunte-me sobre **Desenvolvimento Web, APIs, MongoDB**
+- 💬 Pergunte-me sobre **Desenvolvimento Web, APIs, Levantamento de Requisitos**
 - 📫 Como me encontrar: **sandersonoficial10@hotmail.com**
 - ⚡ Curiosidade: **Eu adoro resolver quebra-cabeças e desafios de lógica**
 
 ## 🚀 Minhas Habilidades
-- **Linguagens de Programação**: C++, Go, JavaScript, TypeScript, MySQL
-- **Frameworks e Bibliotecas**: Node.js, Vue, Flutter
-- **Ferramentas e Tecnologias**: Git
+- **Linguagens de Programação**: C++, Go, JavaScript, TypeScript, MySQL, C#
+- **Frameworks e Bibliotecas**: Node.js, Vue, Flutter, Android Studio, React
+- **Ferramentas e Tecnologias**: Git 
 
 ## 📈 Minhas Estatísticas no GitHub
 
