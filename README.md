@@ -1,3 +1,5 @@
+![Banner Nexum](Banner.png)
+
 # Sanderson Machado | Nexum
 
 > **Desenvolvedor .NET com DNA de Engenharia e Governança.**
