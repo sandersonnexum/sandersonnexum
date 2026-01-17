@@ -1,24 +1,43 @@
-# Olá, eu sou Sanderson Machado👋
+# Sanderson Machado | Nexum
 
-## Sobre Mim
-- 🌱 Atualmente estou aprendendo **C#, Java, Flutter**
-- 👯 Estou procurando colaborar em **projetos de código aberto**
-- 💬 Pergunte-me sobre **Desenvolvimento Web, APIs, Levantamento de Requisitos**
-- 📫 Como me encontrar: **sandersonoficial10@hotmail.com**
-- ⚡ Curiosidade: **Eu adoro resolver quebra-cabeças e desafios de lógica**
+> **Desenvolvedor .NET com DNA de Engenharia e Governança.**
+> Unindo a robustez técnica da Engenharia de Software com as melhores práticas de Governança de TI.
 
-## 🚀 Minhas Habilidades
-- **Linguagens de Programação**: C++, Go, C#, MySQL, Java
-- **Frameworks e Bibliotecas**: Node.js, Vue, Flutter, Android Studio, React
-- **Ferramentas e Tecnologias**: Git 
+---
 
-## 📈 Minhas Estatísticas no GitHub
+### Sobre a Nexum (Conexão & Vínculo)
 
-![Sanderson1406's Stats](https://github-readme-stats.vercel.app/api?username=Sanderson1406&theme=merko&show_icons=true&hide_border=true&count_private=true)
+Atuo na intersecção entre o código de alta performance e a governança corporativa. Minha mentalidade é de que o software deve servir à sustentabilidade da organização através de arquiteturas limpas e seguras.
 
-![Sanderson1406's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanderson1406&theme=merko&hide_border=true)
+* **Formação:** Acadêmico de Elite no UniCEUB (MGA 9.0).
+* **Experiência:** Vivência em ambientes de missão crítica no DETIC (Ministério da Defesa).
+* **Diferencial:** Foco em Clean Architecture, SOLID e conformidade com regras de negócio.
 
-![Sanderson1406's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanderson1406&theme=merko&show_icons=true&hide_border=true&layout=compact)
+---
 
-## 📫 Contato
-- LinkedIn: www.linkedin.com/in/sanderson-machado-278346269
+###  Radar Tecnológico (Foco Estratégico)
+
+Para garantir a excelência, foco no domínio do ecossistema Enterprise da Microsoft.
+
+| 🟢 ADOPT (Foco Total) | 🟡 ASSESS (Aprendizado) | 🔴 HOLD (Fora de Foco) |
+| :--- | :--- | :--- |
+| **C#** / **.NET 8** | **Docker & xUnit** | Front-end Complexo |
+| **ASP.NET Core Web API** | **Azure Functions** | Linguagens fora do ecossistema MS |
+| **SQL Server & EF Core**| **Minimal APIs** | Ferramentas não-Enterprise |
+| **Clean Architecture** | **Certificação AZ-900** | — |
+
+---
+
+### Projetos Nexum (Portfólio)
+
+* **[Vestigia](https://github.com/sandersonnexum/Vestigia):** API de gestão financeira pessoal desenvolvida com .NET 8, focada em separação de interesses (DDD) e persistência robusta.
+* **[Vitalitas](https://github.com/VitalitasPJT/vitalitas-backend):** Liderança técnica em backend C# voltado para saúde, priorizando segurança e escalabilidade. 
+
+---
+
+### Conecte-se com a Nexum
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandersonnexum)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandersonoficial10@hotmail.com)
+
+> *"Documentação não é burocracia, é legado. Se não está documentado, não está pronto."*
